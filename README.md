@@ -8,17 +8,17 @@ Goes well with [Material Theme(preferrable Darker version)](http://equinusocio.g
 
 ### How to install
 
-1. Open SublimeText
-2. Open Preference -> Browse Packages (a folder explorer will open)
+1. Open __SublimeText__
+2. Open `Preference -> Browse Packages` (a folder explorer will open)
 3. Git clone this repo
 
 ```
 $ git clone git@github.com:kn9ts/sepiarize.git Sepiarize
 ```
 
-4. YOU ARE DONE.
+__YOU ARE DONE__
 
-You can now find the variants of the theme in `Preference -> Color Scheme -> Sepiarize`
+__Yeeaay!!__ You can now find the variants of the theme in `Preference -> Color Scheme -> Sepiarize`
 
 __Enjoy the Theme__
 
@@ -34,6 +34,4 @@ DO WHATEVER YOU WANT TO PUBLIC LICENSE
 TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 You just DO WHATEVER YOU WANT TO.
 ```
-
----
-All rights reserved. (C) 2015 - Made with <3 by Eugene Mutai.
+All rights reserved. (C) 2015 - Made with <3 by __Eugene Mutai__.
