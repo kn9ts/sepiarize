@@ -16,18 +16,20 @@ Goes well with [Material Theme(preferrable Darker version)](http://equinusocio.g
 ### How to install
 
 1. Open __SublimeText__
-2. Open `Preference -> Browse Packages` (a folder explorer will open)
-3. Git clone this repo
+2. Open `Preference -> Browse Packages` (a folder explorer will open in the `Packages` root folder)
+3. Git clone __this repo__ in the `Packages` root folder
 
 ```
 $ git clone git@github.com:kn9ts/sepiarize.git Sepiarize
 ```
 
-__YOU ARE DONE__
+__NOTE:__ The package folder can be found at `/User/{username}/Library/Application \Support/Sublime Text 3/Packages`
+
+__YOU ARE DONE.__
 
 __Yeeaay!!__ You can now find the variants of the theme in `Preference -> Color Scheme -> Sepiarize`
 
-__Enjoy the Theme__
+__Enjoy the Theme (^_^)__
 
 ```
 DO WHATEVER YOU WANT TO PUBLIC LICENSE
