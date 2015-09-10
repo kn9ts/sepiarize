@@ -1,5 +1,7 @@
 # Sepiarize Sublime Text Theme
 
+[Fork or Star Github Repo](http://github.com/kn9ts/sepiarize)
+
 An easy-on-the-eye Sublimetext syntax theme inspired by Google Pocket's sepia reading theme. Always find it so easy on my eye however long an article is. Encourages me a lot too.
 
 # [<img title="sepiarize-theme-demo-image" src="http://javascript.co.ke/images/sepiarize.png" width="810px" alt="Sepiarize Theme JavaScript Demo Image"/>](https://github.com/kn9ts/sepiarize)
@@ -43,4 +45,4 @@ DO WHATEVER YOU WANT TO PUBLIC LICENSE
 TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 You just DO WHATEVER YOU WANT TO.
 ```
-All rights reserved. (C) 2015 - Made with <3 by __Eugene Mutai__.
+All rights reserved. (C) 2015 - Made with <3 by [__Eugene Mutai__](http://twitter.com/kn9ts).
