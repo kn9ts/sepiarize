@@ -13,7 +13,7 @@
 	<key>comment</key>
 	<string>https:&#x2f;&#x2f;github.com&#x2f;kn9ts&#x2f;sepiarize</string>
 	<key>semanticClass</key>
-	<string>theme.light.sepiarize</string>
+	<string>theme.light.sepiarize_alternative</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
@@ -35,7 +35,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FBF0D9</string>
+				<string>#F8EBD3</string>
 				<key>caret</key>
 				<string>#4a4543</string>
 				<key>foreground</key>
@@ -496,6 +496,39 @@
 				<string>#db2d20</string>
 				<key>foreground</key>
 				<string>#f7f7f7</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SublimeLinter Error</string>
+			<key>scope</key>
+			<string>sublimelinter.mark.error</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D02000</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SublimeLinter Gutter Mark</string>
+			<key>scope</key>
+			<string>sublimelinter.gutter-mark</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SublimeLinter Warning</string>
+			<key>scope</key>
+			<string>sublimelinter.mark.warning</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DDB700</string>
 			</dict>
 		</dict>
 	</array>
