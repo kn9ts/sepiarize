@@ -4,11 +4,11 @@
 
 An easy-on-the-eye Sublimetext syntax theme inspired by Google Pocket's sepia reading theme. Always find it so easy on my eye however long an article is. Encourages me a lot too.
 
-# [<img title="sepiarize-theme-demo-image" src="http://javascript.co.ke/images/sepiarize.png" width="810px" alt="Sepiarize Theme JavaScript Demo Image"/>](https://github.com/kn9ts/sepiarize)
+[<img title="sepiarize-theme-demo-image" src="http://javascript.co.ke/images/sepiarize.png" width="810px" alt="Sepiarize Theme JavaScript Demo Image"/>](https://github.com/kn9ts/sepiarize)
 
-# [<img title="sepiarize-theme-demo-image" src="http://javascript.co.ke/images/sepiarize-html.png" width="810px" alt="Sepiarize Theme HTML Demo Image"/>](https://github.com/kn9ts/sepiarize)
+[<img title="sepiarize-theme-demo-image" src="http://javascript.co.ke/images/sepiarize-html.png" width="810px" alt="Sepiarize Theme HTML Demo Image"/>](https://github.com/kn9ts/sepiarize)
 
-# [<img title="sepiarize-theme-demo-image" src="http://javascript.co.ke/images/sepiarize-less-css.png" width="810px" alt="Sepiarize Theme LESS/CSS Demo Image"/>](https://github.com/kn9ts/sepiarize)
+[<img title="sepiarize-theme-demo-image" src="http://javascript.co.ke/images/sepiarize-less-css.png" width="810px" alt="Sepiarize Theme LESS/CSS Demo Image"/>](https://github.com/kn9ts/sepiarize)
 
 ### Material Theme
 Goes well with [Material Theme(preferrable Darker version)](http://equinusocio.github.io/material-theme/)
