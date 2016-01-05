@@ -9,11 +9,11 @@
 	<key>author</key>
 	<string>Eugene Mutai</string>
 	<key>name</key>
-	<string>Sepia Colourful - White BG</string>
+	<string>Sepiarize Colourful - White BG</string>
 	<key>comment</key>
 	<string>https:&#x2f;&#x2f;github.com&#x2f;kn9ts&#x2f;sepiarize</string>
 	<key>semanticClass</key>
-	<string>theme.light.sepia_colourful</string>
+	<string>theme.light.sepia_colourful_white_bg</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
@@ -45,7 +45,7 @@
 				<key>lineHighlight</key>
 				<string>#d6d5d4</string>
 				<key>selection</key>
-				<string>#FFFFFF</string>
+				<string>#DCF0D3</string>
 			</dict>
 		</dict>
 		<dict>

@@ -9,7 +9,7 @@
 	<key>author</key>
 	<string>Eugene Mutai</string>
 	<key>name</key>
-	<string>Sepia Colourful</string>
+	<string>Sepiarize Colourful</string>
 	<key>comment</key>
 	<string>https:&#x2f;&#x2f;github.com&#x2f;kn9ts&#x2f;sepiarize</string>
 	<key>semanticClass</key>
@@ -35,7 +35,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F8EBD3</string>
+				<string>#FFEED7</string>
 				<key>caret</key>
 				<string>#4a4543</string>
 				<key>foreground</key>
