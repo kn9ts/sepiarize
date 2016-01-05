@@ -13,7 +13,7 @@
 	<key>comment</key>
 	<string>https:&#x2f;&#x2f;github.com&#x2f;kn9ts&#x2f;sepiarize</string>
 	<key>semanticClass</key>
-	<string>theme.light.colourful_sepia</string>
+	<string>theme.light.sepia_colourful</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
@@ -35,7 +35,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F5F0E7</string>
+				<string>#F8EBD3</string>
 				<key>caret</key>
 				<string>#4a4543</string>
 				<key>foreground</key>
