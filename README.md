@@ -5,18 +5,16 @@
 An easy-on-the-eye Sublimetext syntax theme inspired by Google Pocket's sepia reading theme. Always find it so easy on my eye however long an article is. Encourages me a lot too.
 
 ### JavaScript
-[<img title="sepiarize-theme-demo-image" src="https://raw.githubusercontent.com/kn9ts/sepiarize/master/images/sepia-javascript.png" width="810px" alt="Sepiarize Theme JavaScript Demo Image"/>](https://github.com/kn9ts/sepiarize)
-
-[<img title="sepiarize-theme-demo-image" src="https://raw.githubusercontent.com/kn9ts/sepiarize/master/images/sepia-javascript-2.png" width="810px" alt="Sepiarize Theme JavaScript Demo Image"/>](https://github.com/kn9ts/sepiarize)
+[<img title="sepiarize-theme-demo-image" src="https://raw.githubusercontent.com/kn9ts/sepiarize/master/images/sepiarize-javascript.png" width="810px" alt="Sepiarize Theme JavaScript Demo Image"/>](https://github.com/kn9ts/sepiarize)
 
 ### HTML
-[<img title="sepiarize-theme-demo-image" src="https://raw.githubusercontent.com/kn9ts/sepiarize/master/images/sepia-html.png" width="810px" alt="Sepiarize Theme HTML Demo Image"/>](https://github.com/kn9ts/sepiarize)
+[<img title="sepiarize-theme-demo-image" src="https://raw.githubusercontent.com/kn9ts/sepiarize/master/images/sepiarize-html.png" width="810px" alt="Sepiarize Theme HTML Demo Image"/>](https://github.com/kn9ts/sepiarize)
 
 ### CSS/LESS
-[<img title="sepiarize-theme-demo-image" src="https://raw.githubusercontent.com/kn9ts/sepiarize/master/images/sepia-less-css.png" width="810px" alt="Sepiarize Theme HTML Demo Image"/>](https://github.com/kn9ts/sepiarize)
+[<img title="sepiarize-theme-demo-image" src="https://raw.githubusercontent.com/kn9ts/sepiarize/master/images/sepiarize-css-less.png" width="810px" alt="Sepiarize Theme HTML Demo Image"/>](https://github.com/kn9ts/sepiarize)
 
 ### GO LANG
-[<img title="sepiarize-theme-demo-image" src="https://raw.githubusercontent.com/kn9ts/sepiarize/master/images/sepia-go.png" width="810px" alt="Sepiarize Theme LESS/CSS Demo Image"/>](https://github.com/kn9ts/sepiarize)
+[<img title="sepiarize-theme-demo-image" src="https://raw.githubusercontent.com/kn9ts/sepiarize/master/images/sepiarize-go.png" width="810px" alt="Sepiarize Theme LESS/CSS Demo Image"/>](https://github.com/kn9ts/sepiarize)
 
 ### Material Theme
 Goes well with [Material Theme(preferrable Darker version)](http://equinusocio.github.io/material-theme/)
